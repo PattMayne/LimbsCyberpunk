@@ -77,9 +77,3 @@
 /*    */     public static final int standalone_badge_gravity_top_start = 2131951619;
 /*    */     public static final int standalone_badge_offset = 2131951620;
 /*    */   } }
-
-
-/* Location:              /home/pattmayne/Prog/Android/dex to jar/LimbsCyberpunk-dex2jar.jar!/ca/spiralmachines/limbscyberpunk/R.class
- * Java compiler version: 6 (50.0)
- * JD-Core Version:       1.1.3
- */
